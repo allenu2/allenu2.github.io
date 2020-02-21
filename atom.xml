@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>U2的专栏</title>
+  
+  <subtitle>人的一切痛苦都是源于对自己无能的愤怒</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hellou2.top/"/>
+  <updated>2020-02-11T16:22:18.243Z</updated>
+  <id>http://hellou2.top/</id>
+  
+  <author>
+    <name>Allen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Blog的第一次使用</title>
+    <link href="http://hellou2.top/2020/02/11/hello-world/"/>
+    <id>http://hellou2.top/2020/02/11/hello-world/</id>
+    <published>2020-02-10T16:00:00.000Z</published>
+    <updated>2020-02-11T16:22:18.243Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Blog-使用"><a href="#Blog-使用" class="headerlink" title="Blog 使用"></a>Blog 使用</h2><p>欢迎来到Blog的世界</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Blog-使用&quot;&gt;&lt;a href=&quot;#Blog-使用&quot; class=&quot;headerlink&quot; title=&quot;Blog 使用&quot;&gt;&lt;/a&gt;Blog 使用&lt;/h2&gt;&lt;p&gt;欢迎来到Blog的世界&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="test" scheme="http://hellou2.top/categories/test/"/>
+    
+    
+  </entry>
+  
+</feed>
